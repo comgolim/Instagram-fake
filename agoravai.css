@@ -1,0 +1,148 @@
+ * {
+     box-sizing: border-box;
+ }
+ 
+ body {
+     margin: 0;
+     padding: 0;
+     font-family: Arial, Arial, Helvetica, sans-serif;
+     background-color: #f8f8f8;
+ }
+ 
+ .content {
+     margin: 45px auto;
+     width: 700px;
+     height: 500px;
+ }
+ 
+ .left {
+     width: 49%;
+     height: 110%;
+     float: left;
+     background-image: url("https://thecybersafetylady.com.au/wp-content/uploads/2018/10/Screen-Shot-2018-10-05-at-2.09.37-pm-600x900.png");
+     background-size: cover;
+ }
+ 
+ .right {
+     width: 50%;
+     height: 100%;
+     float: right;
+     padding: 15px;
+     text-align: center;
+ }
+ 
+ .login-frame {
+     border: 1px solid rgb(207, 207, 207);
+     height: 340px;
+     background-color: white;
+     text-align: center;
+     padding-bottom: 100px;
+ }
+ 
+ .login-frame img {
+     margin-bottom: 0px;
+ }
+ 
+ .camp {
+     height: 35px;
+     width: 78%;
+     border: 1px solid#bbb;
+     border-radius: 3px;
+     margin-top: 6px;
+ }
+ 
+ .button {
+     width: 78%;
+     height: 30px;
+     background-color: #80c1ff;
+     border: 0px solid #80c1ff;
+     color: white;
+     border-radius: 3px;
+     margin-top: 12px;
+     font-weight: bold;
+     font-size: 15px;
+ }
+ 
+ .line1 {
+     width: 30%;
+     border: 1px solid #bbb;
+     float: left;
+     margin-left: 30px;
+     margin-top: 29px
+ }
+ 
+ .ou {
+     color: rgb(151, 150, 150);
+     font-weight: 400;
+     font-size: 12px;
+ }
+ 
+ .line2 {
+     width: 30%;
+     border: 1px solid #bbb;
+     float: right;
+     margin-right: 30px;
+     margin-top: 11px
+ }
+ 
+ .billboard {
+     border: 1px solid rgb(207, 207, 207);
+     height: 60px;
+     background-color: white;
+     margin-top: 9px;
+ }
+ 
+ .face {
+     text-decoration: none;
+     font-size: 12px;
+     text-align: center;
+     color: rgb(51, 30, 128);
+     font-weight: bold;
+ }
+ 
+ .passaword {
+     text-decoration: none;
+     font-size: 11px;
+ }
+ 
+ .billboard {
+     border: 1px solid rgb(207, 207, 207);
+     height: 60px;
+     background-color: white;
+     margin-top: 9px;
+     text-align: center;
+     padding-top: 8px;
+     font-size: 13px;
+     color: rgb(31, 31, 31);
+     font-weight: 200px;
+ }
+ 
+ .cad {
+     text-decoration: none;
+     color: rgb(52, 145, 252);
+     font-size: 12px;
+     font-weight: 600;
+ }
+ 
+ .all {
+     font-size: 13px;
+     font-weight: 100;
+     color: rgb(26, 26, 26);
+ }
+ 
+ .button1 {
+     margin-bottom: 15px;
+ }
+ 
+ .button2 {
+     margin-bottom: 6px;
+ }
+ 
+ .cart {
+     border: 1px solid rgb(0, 0, 0);
+     width: 210px;
+     height: 374px;
+     float: right;
+     margin-right: 16px;
+     margin-top: 95px;
+ }
